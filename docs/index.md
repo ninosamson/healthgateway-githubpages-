@@ -1,3 +1,3 @@
 ---
-title: Health Gateway Git Page
+title: Health Gateway GitPages
 ---
